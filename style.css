@@ -1,0 +1,12 @@
+h1{
+    letter-spacing: 10px;
+    background-color: red;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(20, 23, 222);
+}
+div{
+    background-color: blanchedalmond;
+}
