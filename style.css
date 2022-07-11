@@ -1,12 +1,31 @@
-h1{
+h4{
+    border: 5px solid rgb(15, 5, 193);
+    border-radius: 10 px;
     letter-spacing: 10px;
-    background-color: red;
+    background-color: rgb(234, 235, 244);
 }
 body{
     margin: 0px;
     padding: 0px;
-    background-color: rgb(20, 23, 222);
+    background-color: rgb(234, 121, 8);
 }
-div{
-    background-color: blanchedalmond;
+div>section>{
+    background-color: solid white;
+    padding: 20px;
+    margin: 10px;
+    word-spacing: 10px;
+}
+footer{
+    font-size: larger;
+    font-weight: 100;
+    transition: 0.9;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: honeydew;
+}
+footer :hover{
+    transform: scale(1.5);
+    color: violet;
+    background-color: rgb(23, 14, 144);
 }
